@@ -1,4 +1,4 @@
-package day07_Uneray_SHortHand;
+package day07_Unary;
 
 public class quiz {
 	
