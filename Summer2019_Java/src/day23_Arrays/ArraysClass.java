@@ -4,8 +4,8 @@ public class ArraysClass {
 	public static void main(String[] args) {
 
 		System.out.println("Git practice : Forking ... ");
-
 		System.out.println("Git practice : Forking from local repo : IntelliJ  ");
+		System.out.println("Git practice : Forking from remote repo. From git hub  ");
 
 	}
 
