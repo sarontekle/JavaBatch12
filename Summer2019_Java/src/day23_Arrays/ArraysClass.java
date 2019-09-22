@@ -59,7 +59,13 @@ public class ArraysClass {
 			char[]  myChars = {'A','B','C','D'};
 			int HighestIndexNum2 =  myChars.length -1;
 			System.out.println(HighestIndexNum2);
-			
+			char[]  myChars = {'A','B','C','D'};
+			int HighestIndexNum2 =  myChars.length -1;
+			System.out.println(HighestIndexNum2);
+			char[]  myChars = {'A','B','C','D'};
+			int HighestIndexNum2 =  myChars.length -1;
+			System.out.println(HighestIndexNum2);
+
 			
 		
 			
