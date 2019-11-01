@@ -1,4 +1,4 @@
-package Day47_JavaReview;
+package day47_JavaReview;
 
 class A {
 	
