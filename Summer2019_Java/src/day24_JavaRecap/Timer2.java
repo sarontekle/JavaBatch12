@@ -12,9 +12,12 @@ public class Timer2 {
 			int seconds = 59;
 			while (seconds > 0) {
 				System.out.println(minutes + " minutes and " + seconds + " seconds left");
+				
 				try {
 					Thread.sleep(1000);
 				} catch (InterruptedException e) {	}
+				
+				
 				--seconds;
 			}
 			if (minutes < 0)
