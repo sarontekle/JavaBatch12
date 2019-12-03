@@ -1,4 +1,4 @@
-package Day58_Exceptions;
+package day58_Exceptions;
 
 public class Exception_handling {
 
